@@ -1,1 +1,1 @@
-# Compressing-LLMs
+# Compressing Large Language Models
